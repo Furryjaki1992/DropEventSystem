@@ -1,0 +1,8 @@
+name: DropEvent
+authors:
+  - benjamin.
+  - BedrockPlugins
+description: Drop event plugin for PocketMine-MP
+version: 1.0
+api: 3.2.0
+main: BedrockPlugins\DropEvent\DropEventPlugin
